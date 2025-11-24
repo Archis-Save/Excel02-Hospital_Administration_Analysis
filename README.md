@@ -11,4 +11,4 @@ By improving monitoring systems, customizing discharge instructions, and priorit
 
 Screenshot of Dashboard
 
-![1](https://github.com/Strom5112/Food_Ordering_System/assets/137179956/cf2b4e96-9478-49d8-95fd-c2a0e628b81f)
+![1](https://github.com/Archis-Save/Excel02-Hospital_Administration_Analysis/blob/main/02.PNG)
