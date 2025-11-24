@@ -8,4 +8,5 @@ The outcome of this analysis will lead to actionable recommendations, such as op
 The findings of the analysis reveal that hospital readmissions are strongly influenced by multiple interrelated factors, including age, chronic diseases, previous visit frequency, medication dosage, and lack of post-discharge follow-up. Patients with chronic illnesses such as diabetes, hypertension, heart disease, or respiratory issues showed the highest tendency for readmission. Predictive modeling proved effective in categorizing high-risk patients, allowing hospitals to intervene earlier.
 
 By improving monitoring systems, customizing discharge instructions, and prioritizing follow-up care for vulnerable patients, hospitals can significantly reduce readmission rates. The project highlights how integrating data-driven decision-making within healthcare systems leads to improved patient outcomes, optimized resource utilization, and reduced financial burdens for both hospitals and patients.
-https://github.com/Archis-Save/Excel02-Hospital_Administration_Analysis/blob/main/02.PNG
+
+<img src="02.png" width="300">
