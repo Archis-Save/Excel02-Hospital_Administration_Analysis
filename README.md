@@ -9,4 +9,6 @@ The findings of the analysis reveal that hospital readmissions are strongly infl
 
 By improving monitoring systems, customizing discharge instructions, and prioritizing follow-up care for vulnerable patients, hospitals can significantly reduce readmission rates. The project highlights how integrating data-driven decision-making within healthcare systems leads to improved patient outcomes, optimized resource utilization, and reduced financial burdens for both hospitals and patients.
 
-<img src="02.png" width="300">
+Screenshot of Dashboard
+
+![1](https://github.com/Strom5112/Food_Ordering_System/assets/137179956/cf2b4e96-9478-49d8-95fd-c2a0e628b81f)
