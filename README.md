@@ -11,4 +11,4 @@ By improving monitoring systems, customizing discharge instructions, and priorit
 
 Screenshot of Dashboard
 
-![1](https://github.com/Archis-Save/Excel02-Hospital_Administration_Analysis/blob/main/02.PNG)
+![1]()
