@@ -9,6 +9,6 @@ The findings of the analysis reveal that hospital readmissions are strongly infl
 
 By improving monitoring systems, customizing discharge instructions, and prioritizing follow-up care for vulnerable patients, hospitals can significantly reduce readmission rates. The project highlights how integrating data-driven decision-making within healthcare systems leads to improved patient outcomes, optimized resource utilization, and reduced financial burdens for both hospitals and patients.
 
-Screenshot of Dashboard
+Screenshot of Dashboard:-
 
-![1]()
+![1](https://github.com/Archis-Save/Excel02-Hospital_Administration_Analysis/blob/main/02.PNG)
